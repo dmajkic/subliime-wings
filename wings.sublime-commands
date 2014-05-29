@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Wings: Exit and save all files",
+    "command": "exit_save_all",
+  },
+]
